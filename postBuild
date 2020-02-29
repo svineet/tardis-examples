@@ -1,5 +1,4 @@
 #!/bin/bash
 
-conda activate base
-python setup.py install
+# python setup.py install
 
